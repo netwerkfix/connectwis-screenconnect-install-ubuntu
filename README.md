@@ -1,4 +1,4 @@
-# connectwis-screenconnect-install<br>
+# connectwise-screenconnect-install<br>
 <h2>Works on Ubuntu Desktop 24.04 for me :)</h2>
 <h3>To install screenconnect you will need to download first this</h3>
 <h4>sudo apt update && sudo apt upgrade -y</h4>

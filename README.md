@@ -11,3 +11,5 @@
 <h4>sudo chmod 777 ScreenConnect.ClientSetup.sh</h4>
 <h4>su localuser</h4>
 <h4>./ScreenConnect.ClientSetup.sh</h4>
+<h3>Execute a reboot for clean startup</h3>
+<h4>reboot</h4>
